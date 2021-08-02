@@ -1,0 +1,3 @@
+This code assumes there exists a directory called Data adjacent to the notebook which consists of an excel spreadsheet with overall data for the participants including their participant IDs, as well as Position/{motionLearning|motionPractice} and VelocityRoom/{Learning_deltaT|Practice_deltaT} directories containing respective participant data.
+
+The notebook itself was written for a paper, some of the analyses therein did not make it into the paper (including variation of k for kNN, and some other visualizations).
